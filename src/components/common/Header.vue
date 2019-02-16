@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <!-- 折叠按钮 -->
+        <!-- 折叠按 -->
         <div class="collapse-btn" @click="collapseChage">
             <i class="el-icon-menu"></i>
         </div>
